@@ -1,3 +1,3 @@
-HI This is my new project
+Hi This is my new project
 
 Hope you like it. Thank you.
